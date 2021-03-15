@@ -1,2 +1,1 @@
-# docker-tests
-Test repo for docker grader project
+Repo used for go-grader simulating a student repo with assignment solutions.
